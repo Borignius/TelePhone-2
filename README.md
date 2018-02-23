@@ -15,4 +15,4 @@ Use the [Leaderboard API](https://galvanize-leader-board.herokuapp.com/) to read
     * Post the player's score (accessible via the global `score` variable) to the Leaderboard API
     * Get the latest scores again and rewrite them to the page
     * Log any errors from the API with `console.error`
-* Deploy your work and add a link to it [hard-wing.surge.sh](hard-wing.surge.sh)
+* Deploy your work and add a link to it hard-wing.surge.sh
